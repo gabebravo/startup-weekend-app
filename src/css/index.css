@@ -1,0 +1,42 @@
+.header-color {
+  background-color: #A9E8DC;
+}
+
+.btn-secondary {
+  color: #fff;
+  background-color: #F20049;
+  border-color: #F20049;
+}
+
+.btn-secondary:hover { 
+  background-color: #B50036;
+}
+
+.button-style {
+  width: 6rem;
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+.tutor-btn {
+  width: 9rem;
+  margin-top: 1rem;
+}
+
+.tutor-img {
+  vertical-align: middle;
+  border-style: none;
+  border-radius: 70px;
+  width: 140px;
+}
+
+.tutor-text {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+
+@media (max-width: 575px) {
+  .tutor-text {
+    margin-top: 0px;
+  }
+}
